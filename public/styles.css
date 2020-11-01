@@ -1,0 +1,23 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+.card {
+  background: rgb(134, 150, 241);
+  border-radius: 15px;
+  box-shadow: 0 2px 5px rgb(26, 21, 21);
+  padding: 20px;
+  width: 300px;
+  margin: 32px;
+  float: left;
+}
+
+.card h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.card p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
