@@ -2,7 +2,6 @@ import React from "react";
 import Detail from "./Detail";
 import { useState } from "react";
 import { useParams } from "react-router-dom";
-import Card from "./Card";
 
 const User = () => {
   let { id } = useParams();
